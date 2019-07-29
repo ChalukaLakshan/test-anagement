@@ -1,0 +1,14 @@
+C:\Chaluka\MyProjects\WebApplication\WebApplication\bin\Debug\netcoreapp2.1\WebApplication.deps.json
+C:\Chaluka\MyProjects\WebApplication\WebApplication\bin\Debug\netcoreapp2.1\WebApplication.runtimeconfig.json
+C:\Chaluka\MyProjects\WebApplication\WebApplication\bin\Debug\netcoreapp2.1\WebApplication.runtimeconfig.dev.json
+C:\Chaluka\MyProjects\WebApplication\WebApplication\bin\Debug\netcoreapp2.1\WebApplication.dll
+C:\Chaluka\MyProjects\WebApplication\WebApplication\bin\Debug\netcoreapp2.1\WebApplication.pdb
+C:\Chaluka\MyProjects\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.csprojAssemblyReference.cache
+C:\Chaluka\MyProjects\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.csproj.CoreCompileInputs.cache
+C:\Chaluka\MyProjects\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.RazorAssemblyInfo.cache
+C:\Chaluka\MyProjects\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.RazorAssemblyInfo.cs
+C:\Chaluka\MyProjects\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.AssemblyInfoInputs.cache
+C:\Chaluka\MyProjects\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.AssemblyInfo.cs
+C:\Chaluka\MyProjects\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Chaluka\MyProjects\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.dll
+C:\Chaluka\MyProjects\WebApplication\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.pdb
